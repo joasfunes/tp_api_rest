@@ -38,7 +38,8 @@ La aplicación estará disponible en:
 
 
 
-Tabla de Endpoints
+### Tabla de Endpoints
+
 <img width="727" height="403" alt="image" src="https://github.com/user-attachments/assets/465ae362-2a3c-402d-b0cf-8350e05dd350" />
 
 Instrucciones para Acceder a Swagger UI y Consola H2
