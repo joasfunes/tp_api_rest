@@ -24,7 +24,7 @@ Esta es una API REST desarrollada con **Spring Boot** para la gestión de produc
 ### Pasos para Ejecutar el Proyecto
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/joasfunes/tp_api_rest
 
 Navega al directorio del proyecto:
 bash Copiarcd tu-repositorio
