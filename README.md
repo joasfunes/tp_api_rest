@@ -1,5 +1,3 @@
-markdown Copiar# API REST para Gestión de Productos
-
 ## Descripción del Proyecto
 Esta es una API REST desarrollada con **Spring Boot** para la gestión de productos en un sistema de e-commerce. La API permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre productos, aplicando arquitectura en capas, validaciones, manejo de errores, persistencia con Spring Data JPA y documentación con Swagger/OpenAPI.
 
