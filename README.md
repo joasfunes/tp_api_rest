@@ -42,14 +42,14 @@ La aplicación estará disponible en:
 
 <img width="727" height="403" alt="image" src="https://github.com/user-attachments/assets/465ae362-2a3c-402d-b0cf-8350e05dd350" />
 
-Instrucciones para Acceder a Swagger UI y Consola H2
-Swagger UI
+### Instrucciones para Acceder a Swagger UI y Consola H2
+#### Swagger UI
 
 Accede a la documentación interactiva de la API en:
  Copiarhttp://localhost:8080/swagger-ui.html
 
 
-Consola H2
+#### Consola H2
 
 Accede a la consola de la base de datos H2 en:
  Copiarhttp://localhost:8080/h2-console
@@ -63,7 +63,7 @@ Contraseña: (dejar vacío)
 
 
 
-Conclusiones Personales
+### Conclusiones Personales
 Durante el desarrollo de este proyecto, aprendí a:
 
 Diseñar y construir una API REST completa desde cero.
@@ -76,7 +76,7 @@ Documentar APIs con Swagger/OpenAPI.
 Probar endpoints de forma interactiva usando Swagger UI.
 
 
-Autor
+## Autor
 
 Nombre: Joaquín Funes
 Legajo: 50909
